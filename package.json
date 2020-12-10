@@ -1,0 +1,19 @@
+{
+  "name": "my-react-chatbot",
+  "version": "1.0.0",
+  "description": "my react chatbot",
+  "main": "index.js",
+  "engines": {
+    "node": "14.15.0",
+    "npm": "6.14.8"
+  },
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "Hasshim Ali",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1",
+    "request": "^2.88.2"
+  }
+}
