@@ -3,7 +3,7 @@ const app = express();
 
 app.get('/', (req, res) => {
     try {
-        res.send('This is my main page now');
+        res.send('This is my page');
       } catch (err) {
         console.error(err.message);
         res.status(404).send('Mychat 404 Error');
