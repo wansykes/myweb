@@ -10,7 +10,7 @@
   "scripts": {
     "start": "node index.js"
   },
-  "author": "Hasshim Ali",
+  "author": "Riduan",
   "license": "ISC",
   "dependencies": {
     "express": "^4.17.1",
